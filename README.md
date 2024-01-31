@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mansistic-0n3/mansistic-0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
