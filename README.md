@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
 -->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -95,6 +100,4 @@ Here are some ideas to get you started:
 
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
 
