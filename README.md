@@ -1,6 +1,5 @@
 ![Header image](https://github.com/mansistic-0n3/mansistic-0n3/blob/main/header.png)
 <!--
-**mansistic-0n3/mansistic-0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)
 
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
