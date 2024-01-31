@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=highcontrast)](https://git.io/streak-stats)
--->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -87,3 +87,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
 </p>
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansistic-0n3&theme=dark&show_icons=true)
