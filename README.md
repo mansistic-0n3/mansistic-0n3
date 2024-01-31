@@ -96,13 +96,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=dark)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -130,6 +123,6 @@ Here are some ideas to get you started:
 </p>
 
 <!-- GitHub Readme Stats Card on the right -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=donut-vertical&theme=dark" alt="Top Languages" />
+<img align="right" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=dark)" alt="Top Languages" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
 
