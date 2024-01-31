@@ -17,82 +17,77 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=highcontrast)](https://git.io/streak-stats)
 -->
-# Project Name
+<!-- Project Title -->
+<p align="center">
+  <img src="link-to-logo.png" alt="Project Logo" width="200" height="200">
+</p>
 
-![Project Logo](link-to-logo.png)
+<h1 align="center">Project Name</h1>
 
-## Overview
+<p align="center">
+  <b>Brief description of your project and its purpose. Mention key features and functionalities.</b>
+</p>
 
-Welcome to [Project Name]! This project is [a brief description of your project and its purpose]. Whether you're a developer, system administrator, or just someone interested in the tech world, we're excited to have you here.
+<!-- Badges -->
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/your-username/your-repo?style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/your-username/your-repo?style=flat-square">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/your-repo?style=flat-square">
+</p>
 
-## Table of Contents
+<!-- Table of Contents -->
+<h2 align="center">Table of Contents</h2>
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Bug Reporting](#bug-reporting)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+<p align="center">
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a> •
+  <a href="#acknowledgements">Acknowledgements</a>
+</p>
 
-## Getting Started
+<!-- Getting Started -->
+<h2 align="center">Getting Started</h2>
 
 ### Prerequisites
 
-- [List any dependencies or software needed before installation]
+List any dependencies or requirements that users need to have installed before using your project.
 
 ### Installation
 
-[Include step-by-step instructions to install your project.]
+Provide step-by-step instructions on how to install and set up your project.
 
-### Configuration
+<!-- Usage -->
+<h2 align="center">Usage</h2>
 
-[If your project requires configuration, provide guidance on setting it up.]
+Include examples and explanations of how users can use your project. Make it clear and concise.
 
-## Features
+<!-- Contributing -->
+<h2 align="center">Contributing</h2>
 
-- [Highlight key features of your project.]
+We welcome contributions from the community! If you'd like to contribute, please follow these guidelines:
 
-## Usage
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/fooBar`).
+3. Make your changes and commit them (`git commit -am 'Add some fooBar'`).
+4. Push to the branch (`git push origin feature/fooBar`).
+5. Create a new Pull Request.
 
-[Provide examples and explanations of how users can use your project. Make it clear and concise.]
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute, please follow these guidelines:
-
-1. [Fork the repository.](https://github.com/your-username/your-repo/fork)
-2. Create a new branch (`git checkout -b feature/fooBar`)
-3. Make your changes and commit them (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-## Bug Reporting
-
-If you find any issues or bugs, please let us know by [opening an issue](link-to-issues).
-
-## Security
-
-For security concerns, please follow our [security policy](link-to-security-policy).
-
-## License
+<!-- License -->
+<h2 align="center">License</h2>
 
 This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+<!-- Acknowledgements -->
+<h2 align="center">Acknowledgements</h2>
 
-[If your project uses third-party libraries, plugins, or resources, acknowledge and thank the authors.]
-
----
-
-**Happy coding! 🚀**
-
-[Additional contact information or links to relevant resources can be included at the end.]
+If your project uses third-party libraries, plugins, or resources, acknowledge and thank the authors.
 
 ---
 
-**Note:** Replace placeholders such as `[Project Name]`, `[License Name]`, and `[link-to-logo.png]` with your actual project details. Customize the sections and content to best fit your project.
+<p align="center">
+  <i>Happy coding! 🚀</i>
+</p>
+
+<!-- Note: Customize placeholders such as [Project Name], [License Name], and [link-to-logo.png] with your actual project details. -->
+
