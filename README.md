@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
 -->
 ### Skills
 <p align="left">
@@ -92,5 +93,4 @@ Here are some ideas to get you started:
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansistic-0n3&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
