@@ -1,4 +1,4 @@
-![Header image]((https://github.com/mansistic-0n3/mansistic-0n3/blob/main/header.png))
+![Header image](https://github.com/mansistic-0n3/mansistic-0n3/blob/main/header.png)
 <!--
 **mansistic-0n3/mansistic-0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
