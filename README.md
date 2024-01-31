@@ -94,5 +94,6 @@ Here are some ideas to get you started:
 </p>
 <span style="display: block; margin: auto; text-align: center;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansistic-0n3&theme=dark&show_icons=true)
+  </span>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
-</span>
+
