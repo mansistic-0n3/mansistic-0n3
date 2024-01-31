@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansistic-0n3&layout=donut)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)]
 ### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -91,6 +92,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)]
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansistic-0n3&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
