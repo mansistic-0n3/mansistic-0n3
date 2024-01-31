@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mansistic-0n3&theme=dark&show)]
 
 
 <h3 align="left">Languages and Tools:</h3>
